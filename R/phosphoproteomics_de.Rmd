@@ -5,7 +5,7 @@ date: "8/9/2021"
 output: github_document
 ---
 
-```{r setup, echo = FALSE, fig.width=7, fig.height=7}
+```{r setup, fig.width=7, fig.height=7}
 knitr::opts_chunk$set(echo = TRUE)
 
 prot_pdfs <- dir(path = "../DEP_output", pattern = "pdf", recursive = TRUE, full.names = TRUE)
