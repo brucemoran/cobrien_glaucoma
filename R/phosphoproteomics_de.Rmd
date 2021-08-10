@@ -8,16 +8,7 @@ output: github_document
 ```{r setup, echo = FALSE, fig.width=7, fig.height=7}
 knitr::opts_chunk$set(echo = TRUE)
 
-##read RData
-prot_rdata <- dir(path = "../DEP_output", pattern = "RData", recursive = TRUE, full.names = TRUE)
+prot_pdfs <- dir(path = "../DEP_output", pattern = "pdf", recursive = TRUE, full.names = TRUE)
 
-##
-lapply(prot_rdata, function(f){
-  load(f)
-  print(f)
-  suppressMessages(print(plots_list[[1]][[1]][[1]]))
-  suppressMessages(print(plots_list[[1]][[2]]))
-  suppressMessages(print(plots_list[[1]][[3]]))
-  suppressMessages(print(plots_list[[2]][[1]]))
-})
+knitr::include_graphics(prot_pdfs)
 ```
