@@ -3,7 +3,13 @@
 
 ### Phosphoproteomics Analysis
 ```
-Glaucoma Control Untreated Cells vs. Glaucoma Cells Treated with Metformin
+Glaucoma (GLC) Untreated vs. Metformin Treated Cells
 ```
+![PCA plot image not found]("https://github.com/brucemoran/cobrien_glaucoma/blob/master/DEP_output/cell_line_metformin_excl_NLC/GLC_metformin.PCAse.cell_line_metformin_excl_NLC.pdf")
+![Volcano plot image not found]("https://github.com/brucemoran/cobrien_glaucoma/blob/master/DEP_output/cell_line_metformin_excl_NLC/GLC_metformin.enh_volcanos.cell_line_metformin_excl_NLC.pdf")
 
-![Image not found]("brucemoran.github.io/DEP_output/cell_line_metformin_excl_NLC/GLC_metformin.enh_volcanos.cell_line_metformin_excl_NLC.pdf")
+```
+Glaucoma (GLC) Untreated vs. Normal lamina cribrosa (NLC) Cells
+```
+![PCA plot image not found]("https://github.com/brucemoran/cobrien_glaucoma/blob/master/DEP_output/cell_line_metformin_excl_YES/GLC_NLC.PCAse.cell_line_metformin_excl_YES.pdf")
+![Volcano plot image not found]("https://github.com/brucemoran/cobrien_glaucoma/blob/master/DEP_output/cell_line_metformin_excl_YES/GLC_NLC.enh_volcanos.cell_line_metformin_excl_YES.pdf")
