@@ -5,11 +5,11 @@
 ```
 Glaucoma (GLC) Untreated vs. Metformin Treated Cells
 ```
-![PCA plot PNG not found](DEP_output/cell_line_metformin_excl_NLC/GLC_metformin.PCAse.cell_line_metformin_excl_NLC.png)
+![PCA plot PNG not found](DEP_output/cell_line_metformin_excl_NLC/GLC_metformin.PCAse.cell_line_metformin_excl_NLC.*.png)
 ![Volcano plot PDF not found](DEP_output/cell_line_metformin_excl_NLC/GLC_metformin.enh_volcanos.cell_line_metformin_excl_NLC.png)
 
 ```
 Glaucoma (GLC) vs. Normal lamina cribrosa (NLC) Cells
 ```
-![PCA plot PDF not found](DEP_output/cell_line_metformin_excl_YES/GLC_NLC.PCAse.cell_line_metformin_excl_YES.png)
+![PCA plot PDF not found](DEP_output/cell_line_metformin_excl_YES/GLC_NLC.PCAse.cell_line_metformin_excl_YES.*.png)
 ![Volcano plot PDF not found](DEP_output/cell_line_metformin_excl_YES/GLC_NLC.enh_volcanos.cell_line_metformin_excl_YES.png)
