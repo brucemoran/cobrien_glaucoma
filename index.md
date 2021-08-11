@@ -14,4 +14,4 @@ Glaucoma (GLC) vs. Normal lamina cribrosa (NLC) Cells
 ![PCA plot PNG not found](DEP_output/cell_line_metformin_excl_YES/GLC_NLC.PCAse.cell_line_metformin_excl_YES.*.png)
 ![Volcano plot PNG not found](DEP_output/cell_line_metformin_excl_YES/GLC_NLC.enh_volcanos.cell_line_metformin_excl_YES.png)
 
-<img src="DEP_output/cell_line_metformin_excl_YES/GLC_NLC.PCAse.cell_line_metformin_excl_YES.*.png">
+<img src="https://brucemoran.github.com/cobrien_glaucoma/DEP_output/cell_line_metformin_excl_YES/GLC_NLC.PCAse.cell_line_metformin_excl_YES.*.png">
